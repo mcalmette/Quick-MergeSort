@@ -38,9 +38,9 @@ An implementation of selection sort / insertion sort of a linked list with each 
 Quick sort and merge sort are much more efficient sorting algorithms relative to selection sort and insertion sort with a random list of objects. However, for a list of objects in descending order that need to be in an ascending order, merge sort has a clear advantage over the other three.
 
 Results:
+
 <img width="626" alt="Screen Shot 2020-05-20 at 6 13 42 PM" src="https://user-images.githubusercontent.com/56742122/82512687-a672d600-9ac5-11ea-9ed3-a575dec04508.png">
 
-<img width="450" alt="Screen Shot 2020-05-20 at 5 25 30 PM" src="https://user-images.githubusercontent.com/56742122/82510280-074ae000-9abf-11ea-8453-8ffa63e5c6ce.png">
 
 
 
