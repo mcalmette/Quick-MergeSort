@@ -40,6 +40,7 @@ Quick sort and merge sort are much more efficient sorting algorithms relative to
 Results:
 
 <img width="626" alt="Screen Shot 2020-05-20 at 6 13 42 PM" src="https://user-images.githubusercontent.com/56742122/82512687-a672d600-9ac5-11ea-9ed3-a575dec04508.png">
+<img width="619" alt="Screen Shot 2020-05-20 at 6 16 11 PM" src="https://user-images.githubusercontent.com/56742122/82512801-fd78ab00-9ac5-11ea-9f53-f856cad637a3.png">
 
 
 
