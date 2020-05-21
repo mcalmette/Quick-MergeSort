@@ -26,7 +26,7 @@ To use insertion sort:
 Note: can switch out different random text files with files that sort a descending listed file i.e. desc-10k.txt 
 
 ## About this project
-An implementation of selection sort / insertion sort of a linked list with each node holding a key-value pair.  The project also uses these functions:
+An implementation of selection/insertion/quick/merge sort of a linked list with each node holding a key-value pair.  The project also uses these functions:
 - add
 - remove
 - find
